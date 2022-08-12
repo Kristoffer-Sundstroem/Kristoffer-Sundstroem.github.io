@@ -1,5 +1,6 @@
 navbar:
   title: Kristoffer Sundström
+  type: inverse
   left:
     - text: "Home"
       href: index.html

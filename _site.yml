@@ -11,5 +11,5 @@ navbar:
       href: Resume.html
     - text: "About me"
       href: About-Me.html
-output:
+output: "."
   html_document:

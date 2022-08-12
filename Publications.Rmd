@@ -1,0 +1,10 @@
+---
+output: html_document
+---
+
+# Publications
+
+<br>
+
+#### $\underline{Published}$
+Wind Power and Job Creation - L.Aldieri*, J.Grafström, K.Sundström, P.Vinci.

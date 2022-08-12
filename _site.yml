@@ -1,7 +1,15 @@
 navbar:
-  title: Title
+  title: Kristoffer Sundström
   left:
-    - text: Main page that links to files
-      href: content.html
+    - text: "Home"
+      href: index.html
+    - text: "Projects"
+      href: Projects.html
+    - text: "Publications"
+      href: Publications.html
+    - text: "Resume"
+      href: Resume.html
+    - text: "About me"
+      href: About-Me.html
 output:
   html_document:

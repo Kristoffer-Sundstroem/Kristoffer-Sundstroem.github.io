@@ -2,6 +2,6 @@
 output: html_document
 ---
 
-# Projects
+## Projects
 
 In the future you will be able to find my private projects in a blog format on this page.

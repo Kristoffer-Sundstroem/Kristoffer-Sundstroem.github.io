@@ -1,13 +1,13 @@
 ---
 output: html_document
 ---
-<!--Just basic texts with <br> to separate text chunks.-->
+<!--Just basic texts with <br> to separate text chunks with extra space.-->
 
-# Resume
+## Resume
 
 <br>
 
-### $\underline{Work\space Experience}$
+#### $\underline{Work\space Experience}$
 Graduate Asssistant - The University of Toledo, August 2019 - May 2020.
 
 <br>
@@ -20,7 +20,7 @@ Research Assistant - The RATIO Institute, November 2018 - January 2019.
 
 <br>
 
-### $\underline{Education}$
+#### $\underline{Education}$
 
 PhD in Economics - Luleå University of Technology, August 2020 - Current.
 
@@ -46,7 +46,7 @@ Higher Education Diploma in Real Estate Brokerage - Luleå University of Technol
 
 <br>
 
-### $\underline{Teaching\space Experience}$
+#### $\underline{Teaching\space Experience}$
 
 Lecturer in Economics for Real Estate Agents - Luleå University of Technology / Lexicon.
 
@@ -56,7 +56,7 @@ Seminar Teacher in Microeconomics & Macroeconomics - Luleå University of Techno
 
 <br>
 
-### $\underline{Other\space Academic\space Experience}$
+#### $\underline{Other\space Academic\space Experience}$
 
 PhD Student Representative in the ETKS management team at Luleå University of Technology.
 

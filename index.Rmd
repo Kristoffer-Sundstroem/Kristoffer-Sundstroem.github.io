@@ -1,5 +1,15 @@
 ---
 output: html_document
 ---
+<!--Just basic texts with <br> to separate text chunks with extra space but also a .jpg centered on the page.-->
 
-Welcome to my website, here you can find my private projects, publications, resume and further information about me.
+<br>
+
+<p style="text-align:center;"> <img src="ks-pic.jpg" style="width:150px"></p>
+
+<br>
+
+<p style="text-align:center;"> #### Welcome to my website, here you can find my private projects, publications, resume and information about me.
+
+<div style="clear: both"></div>
+

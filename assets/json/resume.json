@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Kristoffer Sundström",
+    "label": "PhD Candidate",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "kristoffer.sundstrom@ltu.se",
+    "phone": "(+46)73-07 92 449",
+    "url": "https://Kristoffer-Sundstroem.github.io/",
+    "summary": "FILL",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Yrkesgatan 56",
+      "postalCode": "974 34",
+      "city": "Luleå",
+      "countryCode": "SWE",
+      "region": "Norrbotten"
     },
     "profiles": [
       {
@@ -151,7 +151,7 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Swedish",
       "fluency": "Native speaker",
       "icon": ""
     },

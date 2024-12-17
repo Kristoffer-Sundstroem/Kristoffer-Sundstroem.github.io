@@ -63,8 +63,8 @@
       "url": "https://www.ltu.se/en",
       "area": "Economics",
       "studyType": "Master of Science",
-      "startDate": "2019-06",
-      "endDate": "2018-09",
+      "startDate": "2018-09",
+      "endDate": "2019-06",
       "score":"",
       "courses":""
     },
@@ -74,8 +74,8 @@
       "url": "https://www.ltu.se/en",
       "area": "Economics",
       "studyType": "Bachelor of Science",
-      "startDate": "2018-06",
-      "endDate": "2016-09",
+      "startDate": "2016-09",
+      "endDate": "2018-06",
       "score":"",
       "courses":""
     }
@@ -89,50 +89,7 @@
       "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
     }
   ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
+  "certificates":,
   "publications": [
     {
       "name": "Zur Elektrody/namik bewegter Körper",
@@ -158,16 +115,14 @@
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Tools",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "R",
+        "Stata",
+        "PostgreSQL",
+        "Git"
       ]
     }
   ],

@@ -2,23 +2,23 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Affiliations</a>.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p></p>
+    <p></p>
+    <p></p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a PhD candidate in Economics at Luleå University of Technology, specializing in environmental economics. My research focuses on the design and implementation of environmental permitting processes, as well as the institutional frameworks that shape them.
+I am a PhD candidate in Economics at Luleå University of Technology, specializing in environmental economics. My research focuses on the design and implementation of environmental permits, as well as the institutional frameworks that shape them.
 
 In my studies, I have explored topics such as the historical evolution of Swedish environmental regulations, particularly in the pulp mill industry, and analyzed the impacts of these regulations over time. Through the use of instrumental panel regression models and panel vector autoregressive models I managed to investigate the impact of both regulatory regime changes, and trial periods, on the effectiveness of effluent limits in the Swedish pulp and paper industry.
 

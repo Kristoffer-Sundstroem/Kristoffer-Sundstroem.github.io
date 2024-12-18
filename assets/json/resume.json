@@ -27,13 +27,47 @@
       "name": "Luleå University of Technology",
       "position": "PhD Studies",
       "url": "https://www.ltu.se/en",
-      "startDate": "2020-08-01",
+      "startDate": "2020-08",
       "endDate": "",
-      "summary": "Studying environmental permits and how these are designed, implemented and formed by their institutional contexts.",
-      "highlights": ["Environmental Permitting Processes"]
+      "summary": "Studying environmental permits and how these are designed, implemented and formed by their institutional contexts."
+    },
+    {
+      "name": "University of Toledo",
+      "position": "Graduate Assistant",
+      "url": "https://www.utoledo.edu/",
+      "startDate": "2019-08",
+      "endDate": "2020-05",
+      "summary": "Assisted professors in grading, teaching and research."
+    },
+    {
+      "name": "Luleå University of Technology",
+      "position": "Research Engineer",
+      "url": "https://www.ltu.se/en",
+      "startDate": "2019-01",
+      "endDate": "2019-04",
+      "summary": "Assisted professors in grading, teaching and research."
+    },
+    {
+      "name": "Ratio",
+      "position": "Research Assistant",
+      "url": "https://ratio.se/en",
+      "startDate": "2018-11",
+      "endDate": "2019-01",
+      "summary": "Co-authored the paper "Wind power and job creation."
     }
   ],
   "education": [
+    {
+      "institution": "Luleå University of Technology",
+      "location": "Luleå, Sweden",
+      "url": "https://www.ltu.se/en",
+      "area": "Economics",
+      "studyType": "PhD",
+      "startDate": "2020-08",
+      "endDate":"",
+      "score":"",
+      "courses":""
+    },
     {
       "institution": "University of Toledo",
       "location": "Toledo, USA",

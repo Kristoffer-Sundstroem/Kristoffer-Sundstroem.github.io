@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <u>Environmental Economist</u>
+subtitle: <p style="text-decoration: underline;"> Environmental Economist</p>
 
 profile:
   align: right

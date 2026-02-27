@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: about
 permalink: /
 subtitle: <a href='#'>Environmental Economist</a>

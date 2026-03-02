@@ -29,4 +29,3 @@ A central argument in my research is that environmental regulation cannot be und
 - Institutions and structural transformation
 
 ---
-You can find my publications and ongoing projects in the repositories listed on this page.
